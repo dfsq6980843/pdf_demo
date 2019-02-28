@@ -1,0 +1,39 @@
+server:
+  port: 8888
+
+# 配置freemarker
+spring:
+  freemarker:
+    allow-request-override: false
+    cache: false
+    check-template-location: true
+    charset: UTF-8
+    content-type: text/html; charset=utf-8
+    expose-request-attributes: false
+    expose-session-attributes: false
+    expose-spring-macro-helpers: false
+    suffix: .ftl
+    template-loader-path: classpath:/templates
+# 设置静态文件路径，js,css等
+mvc:
+  static-path-pattern: /static/**
+
+
+huaxing:
+  call-report:
+    project: Call Report of 聊天宝
+    time: 2019/1/18, 9:00 -
+    address: 华兴
+    participant:
+      a: 罗永浩
+      b: 雷鸣、周冠雄
+    resource: ceshi
+    score:
+      team: 3
+      market: 3
+      product: 3
+      valuation: 3
+
+
+
+

@@ -1,0 +1,358 @@
+[{
+  "mCname": "1. 公司简介",
+  "mIcon": "fa fa-square-o",
+  "children": [{
+    "mCname": "主打下沉用户的大杂烩产品，新闻咨询+社交+电商的聚合平台",
+    "mIcon": "fa fa-cube"
+  }]
+},
+  {
+    "mCname": "2. 产品/方案/服务",
+    "mIcon": "fa fa-cogs",
+    "children": [{
+      "mCname": "用户画像",
+      "mIcon": "fa fa-circle",
+      "children": [{
+        "mCname": "下沉城市线",
+        "mIcon": "fa fa-search-minus"
+      },
+        {
+          "mCname": "打小游戏",
+          "mIcon": "fa fa-square"
+        },
+        {
+          "mCname": "看新闻",
+          "mIcon": "fa fa-shield"
+        },
+        {
+          "mCname": "喜欢占小便宜，冲着补贴来使用产品",
+          "mIcon": "fa fa-shield"
+        },
+        {
+          "mCname": "通过游戏等场景设计让用户把钱花出来",
+          "mIcon": "fa fa-shield"
+        },
+        {
+          "mCname": "社交关系少而简单，大部分人的通讯录只有 100 出头，其中还有 1/4 左右不是社交contact;迁移这些人的社交关系链要比一线城市要简单很多 ",
+          "mIcon": "fa fa-shield"
+        }
+      ]
+    },
+      {
+        "mCname": "产品设计是大杂烩的原因",
+        "mIcon": "fa fa-tree",
+        "children": [{
+          "mCname": "跟趣头条交流过，下沉人群是缺少共性的，除了爱贪小便宜外，没有特别集中和一 致的共性",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "把功能尽可能做的全面，除了个别几个 button 外，其他的入口可以 customize",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "子弹短信",
+        "mIcon": "fa fa-user-secret",
+        "children": [{
+          "mCname": "之前子弹短信是想往海外推广的，做成类似 Slack 一样的偏商务的软件",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "后来流量的暴涨暴跌让我们看到了新的机会，可能存在更大的市场",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "电商板块",
+        "mIcon": "fa fa-users",
+        "children": [{
+          "mCname": "与淘宝客、拼多多等渠道合作",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "第一天 GMV 110 万，第二天 GMV 80 万",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "社交",
+        "mIcon": "fa fa-leaf",
+        "children": [{
+          "mCname": "聊天宝本质是个大杂烩，不是单纯的社交产品",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "社交功能的意义在于增加用户粘性",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mCname": "3. 市场观点",
+    "mIcon": "",
+    "children": [{
+      "mCname": "负面新闻",
+      "mIcon": "",
+      "children": [{
+        "mCname": "原先锤子手机受众是一线白领和文青",
+        "mIcon": "fa fa-search-minus"
+      },
+        {
+          "mCname": "现在的聊天宝调性比较接地气，让原先的人群很懵逼，负面反馈比较大",
+          "mIcon": "fa fa-square"
+        }
+      ]
+    },
+      {
+        "mCname": "为什么最近半年社交这么热?",
+        "mIcon": "",
+        "children": [{
+          "mCname": "微信垄断已经很长时间了",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "带来很多问题",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "趣头条数据最好的 6 个省",
+        "mIcon": "",
+        "children": [{
+          "mCname": "河南河北山东+东三省",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "南方比北方富裕一些，账算的比北方人更精;",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mCname": "4. 竞争观点",
+    "mIcon": "",
+    "children": [{
+      "mCname": "补贴竞争",
+      "mIcon": "",
+      "children": [{
+        "mCname": "补贴和产品都要做，产品做得不好，纯补贴是没用的",
+        "mIcon": "fa fa-search-minus"
+      },
+        {
+          "mCname": "需要把补贴的钱消耗掉",
+          "mIcon": "fa fa-square"
+        },
+        {
+          "mCname": "趣头条补贴 0.3 元，可以赚回来 0.5 元广告费，但需要不断的拉新",
+          "mIcon": "fa fa-square"
+        }
+      ]
+    },
+      {
+        "mCname": "其他社交",
+        "mIcon": "",
+        "children": [{
+          "mCname": "8 月 20 号宣布子弹推出后，很多创业团队蠢蠢欲动，都想要做社交",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "现在复盘，我觉得 8 月 20 号在子弹不 ready 的情况下推出是一个很大的失败",
+            "mIcon": "fa fa-square"
+          },
+          {
+            "mCname": "上周三款新的社交产品同一天宣发纯属巧合",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "马桶 MT",
+        "mIcon": "",
+        "children": [{
+          "mCname": "感觉王欣走不了正道",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "哪怕是个庄，产品也不能走歪路，不能利用人性阴暗面",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "多闪",
+        "mIcon": "",
+        "children": [{
+          "mCname": "美国的青少年在成年前玩的更疯更放得开，文化也比较开放，snapchat 这种保护隐私的产品比较受欢迎",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "中国的人群特点和文化不太一样",
+            "mIcon": "fa fa-square"
+          },
+          {
+            "mCname": "但今日头条是可以用数据驱动的能力不断复制成功的公司，所以也不好说",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "其他",
+        "mIcon": "",
+        "children": [{
+          "mCname": "跟微信有关的产品是会被张小龙封杀的;张小龙是个很怪的人，对自己人也是会下狠手的",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "拼多多不可能做社交了，因为他们还要依赖微信导流，之前拼多多尝试做过类似的功能，但是被张小龙封杀了，黄铮亲自去求情才解封的",
+            "mIcon": "fa fa-square"
+          },
+          {
+            "mCname": "趣头条是有可能做的",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "mCname": "5. 运营和财务",
+    "mIcon": "fa fa-tree",
+    "children": [{
+      "mCname": "现在还是一线城市为主，30%多是三线和以下的",
+      "mIcon": "fa fa-search-minus"
+    },
+      {
+        "mCname": "子弹老用户回流大概占了 50%",
+        "mIcon": "fa fa-square"
+      },
+      {
+        "mCname": "获客成本还在计算",
+        "mIcon": "fa fa-square"
+      },
+      {
+        "mCname": "裂变奖励最终拉平差不多 1 元/人",
+        "mIcon": "fa fa-square"
+      }
+    ]
+  },
+  {
+    "mCname": "6. 未来发展",
+    "mIcon": "",
+    "children": [{
+      "mCname": "功能迭代方向",
+      "mIcon": "",
+      "children": [{
+        "mCname": "针对目标人群的习惯的功能按比重调整好",
+        "mIcon": "fa fa-search-minus"
+      },
+        {
+          "mCname": "变现功能方面，每块会组件独立的团队来做",
+          "mIcon": "fa fa-square"
+        }
+      ]
+    },
+      {
+        "mCname": "新闻资讯",
+        "mIcon": "",
+        "children": [{
+          "mCname": "接了好多家，图文接了 UC 等，短视频接了西瓜和火山，这是故意的",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "后面想自己做",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "广告展露",
+        "mIcon": "",
+        "children": [{
+          "mCname": "小游戏和新闻资讯流",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "朋友圈也会有;对话也可以考虑给广告，下沉用户对隐私不太关注",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "拉新",
+        "mIcon": "",
+        "children": [{
+          "mCname": "过年期间联合很多商家在里面做礼品、红包等，比如送机票还有无人机",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "新年是每年唯一一次城乡大结合的时期，可以借助这个趋势来传播",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "求助信任关系",
+        "mIcon": "",
+        "children": [{
+          "mCname": "在朋友圈发布求助时，除了朋友外，还允许二度人脉看到",
+          "mIcon": "fa fa-search-minus"
+        },
+          {
+            "mCname": "接受合作后自动拉群",
+            "mIcon": "fa fa-square"
+          }
+        ]
+      },
+      {
+        "mCname": "人情事故",
+        "mIcon": "",
+        "children": [{
+          "mCname": "会出一些这些方面的功能",
+          "mIcon": "fa fa-search-minus"
+        }]
+      }
+    ]
+  },
+  {
+    "mCname": "7. 团队情况",
+    "mIcon": "fa fa-tree",
+    "children": [{
+      "mCname": "罗永浩",
+      "mIcon": "fa fa-search-minus",
+      "children": [{
+        "mCname": "锤子已经卖了，20 号左右就会公布;公司主体会保留，孵化的一些项目会继续做,如果任何一个项目成了，能让投资人收回一些钱",
+        "mIcon": "fa fa-search-minus"
+      },
+        {
+          "mCname": "现在 100%的精力放在快如科技这边",
+          "mIcon": "fa fa-square"
+        }
+      ]
+    }]
+  },
+  {
+    "mCname": "8. 融资需求",
+    "mIcon": "fa fa-tree",
+    "children": [{
+      "mCname": "5,000 万-1 亿美元",
+      "mIcon": "fa fa-search-minus"
+    },
+      {
+        "mCname": "估值再看下数据",
+        "mIcon": "fa fa-square"
+      },
+      {
+        "mCname": "希望在 2 月底之前做完",
+        "mIcon": "fa fa-square"
+      }
+    ]
+  }
+]
